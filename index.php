@@ -1,4 +1,9 @@
+<?php
+  
+  $erro = isset($_GET['erro']) ? $_GET['erro'] : 0;
+  
 
+?>
 
 <!DOCTYPE html>
 <html>
