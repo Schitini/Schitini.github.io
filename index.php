@@ -20,7 +20,7 @@
     
     <link href="css/estilo.css" rel="stylesheet">
 
-    <script>
+    <!--script>
       $(document).ready(function(){
         $('#btn_login').click(function(){
 
@@ -45,7 +45,7 @@
 
         });
       });
-    </script>
+</script!-->
 </head>
 <body>
 	<!-- Static navbar -->
@@ -95,7 +95,7 @@
 		</div>
 
 	</div>
- 
+  <!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script!-->
 
 </body>
 </html>
